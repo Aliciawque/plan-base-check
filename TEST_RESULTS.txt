@@ -1,0 +1,25 @@
+test_blob_is_not_commit (test_plan_base_check.Checks.test_blob_is_not_commit) ... ok
+test_clean_cli_and_no_index_write (test_plan_base_check.Checks.test_clean_cli_and_no_index_write) ... ok
+test_clean_filter_not_run (test_plan_base_check.Checks.test_clean_filter_not_run) ... ok
+test_committed_scoped_drift (test_plan_base_check.Checks.test_committed_scoped_drift) ... ok
+test_deleted_scoped_file (test_plan_base_check.Checks.test_deleted_scoped_file) ... ok
+test_external_diff_and_fsmonitor_not_run (test_plan_base_check.Checks.test_external_diff_and_fsmonitor_not_run) ... ok
+test_git_environment_cannot_redirect_repo (test_plan_base_check.Checks.test_git_environment_cannot_redirect_repo) ... ok
+test_invalid_json_cli (test_plan_base_check.Checks.test_invalid_json_cli) ... ok
+test_invalid_plan_and_scope (test_plan_base_check.Checks.test_invalid_plan_and_scope) ... ok
+test_literal_pathspec_metacharacters (test_plan_base_check.Checks.test_literal_pathspec_metacharacters) ... ok
+test_missing_base_is_unknown_cli (test_plan_base_check.Checks.test_missing_base_is_unknown_cli) ... ok
+test_non_repository_is_unknown (test_plan_base_check.Checks.test_non_repository_is_unknown) ... ok
+test_outside_scope_dirt_is_not_stale (test_plan_base_check.Checks.test_outside_scope_dirt_is_not_stale) ... ok
+test_process_filter_not_run (test_plan_base_check.Checks.test_process_filter_not_run) ... ok
+test_rename_out_of_scope_keeps_source_visible (test_plan_base_check.Checks.test_rename_out_of_scope_keeps_source_visible) ... ok
+test_staged_unstaged_and_untracked (test_plan_base_check.Checks.test_staged_unstaged_and_untracked) ... ok
+test_stale_base_even_when_change_is_outside_scope (test_plan_base_check.Checks.test_stale_base_even_when_change_is_outside_scope) ... ok
+test_subdirectory_rejected (test_plan_base_check.Checks.test_subdirectory_rejected) ... ok
+test_unborn_head_is_unknown (test_plan_base_check.Checks.test_unborn_head_is_unknown) ... ok
+test_unmerged_index_is_unknown (test_plan_base_check.Checks.test_unmerged_index_is_unknown) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.813s
+
+OK
